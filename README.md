@@ -1,5 +1,7 @@
 # kubernetes utilizando Azure
 
+Instalar o Az cli : https://docs.microsoft.com/pt-br/azure/aks/kubernetes-walkthrough-portal
+
 Comandos utilizados :
 
 1 - kubectl create ns nomeDoSpace ( para a criação do namespace ) 
